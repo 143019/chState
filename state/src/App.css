@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+img {
+  font-size: xx-large;
+  height: 300px;
+  border: radius 20px;
+  width: 300px;
+  border-radius: 200%;
+  
+}
+body {
+  background-color: rgb(122, 57, 79);
+}
+
+.faty{
+  font-style: oblique;
+  color: powderblue
+  
+}
